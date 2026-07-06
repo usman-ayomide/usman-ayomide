@@ -1,16 +1,32 @@
-## Hi there 👋
+# Usman Ayomide
 
-<!--
-**usman-ayomide/usman-ayomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-leaning full-stack developer. I build with JavaScript and Node, learn in public, and I'm working toward freelance and contract work.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building REST APIs and full-stack apps with **Node.js, Express, and PostgreSQL**
+- Currently learning **React** to strengthen the front end
+- Interested in **Web3 and DeFi** — building small, practical tools on top of public crypto APIs
+- Open to **freelance and contract** opportunities
+
+## Tech
+
+**Languages:** JavaScript
+**Backend:** Node.js · Express · EJS · REST APIs
+**Database:** PostgreSQL
+**Learning:** React
+
+## Featured work
+
+**[coinscope](https://github.com/usman-ayomide/coinscope)** — A live cryptocurrency dashboard built on the CoinGecko API. Tracks prices and market data in real time.
+<!-- Add the live demo link here once deployed, e.g. Live: https://coinscope.onrender.com -->
+
+## Connect
+
+- X: [@maleficboss](https://x.com/maleficboss)
+- LinkedIn: <!-- add your LinkedIn profile URL -->
+- Email: oyebamijiusmanayomide@gmail.com
+
+---
+
+<sub>Documenting the journey from bootcamp to shipping real work. Feedback and collaboration welcome.</sub>
