@@ -24,7 +24,7 @@ Backend-leaning full-stack developer. I build with JavaScript and Node, learn in
 ## Connect
 
 - X: [@maleficboss](https://x.com/maleficboss)
-- LinkedIn: <!-- add your LinkedIn profile URL -->
+- LinkedIn: https://www.linkedin.com/in/usman-ayomide-267849207/
 - Email: oyebamijiusmanayomide@gmail.com
 
 ---
