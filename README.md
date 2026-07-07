@@ -19,7 +19,7 @@ Backend-leaning full-stack developer. I build with JavaScript and Node, learn in
 ## Featured work
 
 **[coinscope](https://github.com/usman-ayomide/coinscope)** — A live cryptocurrency dashboard built on the CoinGecko API. Tracks prices and market data in real time.
-<!-- Add the live demo link here once deployed, e.g. Live: https://coinscope.onrender.com -->
+https://coinscope-j49d.onrender.com/
 
 ## Connect
 
